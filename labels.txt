@@ -1,0 +1,3 @@
+0 Gorrion
+1 Paloma
+2 loro
